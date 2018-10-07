@@ -1,0 +1,43 @@
+c:\users\user\documents\visual studio 2013\Projects\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.exe.config
+C:\Users\user\Desktop\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.exe.config
+C:\Users\user\Desktop\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.exe
+C:\Users\user\Desktop\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.pdb
+C:\Users\user\Desktop\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410_HW5.Form1.resources
+C:\Users\user\Desktop\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410_HW5.Properties.Resources.resources
+C:\Users\user\Desktop\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.exe
+C:\Users\user\Desktop\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.pdb
+C:\Users\user\Desktop\視窗程式設計\HW5\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.exe.config
+C:\Users\user\Desktop\視窗程式設計\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.exe
+C:\Users\user\Desktop\視窗程式設計\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.pdb
+C:\Users\user\Desktop\視窗程式設計\作業\HW5\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.exe.config
+C:\Users\user\Desktop\視窗程式設計\作業\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.exe
+C:\Users\user\Desktop\視窗程式設計\作業\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.pdb
+C:\Users\user\Desktop\作品\HW5\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.exe.config
+C:\Users\user\Desktop\作品\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.exe
+C:\Users\user\Desktop\作品\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.pdb
+C:\Users\user\Desktop\作品\HW5\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.exe
+C:\Users\user\Desktop\作品\HW5\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.pdb
+C:\Users\user\Desktop\作品\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\作品\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410_HW5.Form1.resources
+C:\Users\user\Desktop\作品\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410_HW5.Properties.Resources.resources
+C:\Users\user\Desktop\作品\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.exe.config
+C:\Users\user\Desktop\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.pdb
+C:\Users\user\Desktop\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.exe
+C:\Users\user\Desktop\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.pdb
+C:\Users\user\Desktop\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410_HW5.Form1.resources
+C:\Users\user\Desktop\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410_HW5.Properties.Resources.resources
+C:\Users\user\Desktop\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.exe
+C:\Users\user\Desktop\很重要\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.exe.config
+C:\Users\user\Desktop\很重要\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.exe
+C:\Users\user\Desktop\很重要\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.pdb
+C:\Users\user\Desktop\很重要\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.exe
+C:\Users\user\Desktop\很重要\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\bin\Debug\s1041410 HW5.pdb
+C:\Users\user\Desktop\很重要\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\很重要\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410_HW5.Form1.resources
+C:\Users\user\Desktop\很重要\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410_HW5.Properties.Resources.resources
+C:\Users\user\Desktop\很重要\收\作品\OK\HW5\s1041410 HW5\s1041410 HW5\obj\Debug\s1041410 HW5.csproj.GenerateResource.Cache
